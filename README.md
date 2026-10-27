@@ -3,7 +3,7 @@ Welcome! This repository serves as a centralized portfolio for my independent so
 
 The focus of this repository is on building functional applications, exploring software architecture, and practicing clean code principles.
 
-## 💻 Environment & Setup
+## Environment & Setup
 
 Most programs in this repository run on standard Python. To execute a script locally:
 
