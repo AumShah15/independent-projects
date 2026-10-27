@@ -1,4 +1,16 @@
 # independent-projects
-A centralised portfolio of independent software projects, utility scripts, and self-directed programming experiments.
-<img width="645" height="795" alt="image" src="https://github.com/user-attachments/assets/152f42fa-e1c0-4f85-9198-fa046b108e14" />
+Welcome! This repository serves as a centralized portfolio for my independent software projects, utility scripts, and programming experiments. It tracks my self-directed development work outside of my structured coursework.
 
+The focus of this repository is on building functional applications, exploring software architecture, and practicing clean code principles.
+
+## 💻 Environment & Setup
+
+Most programs in this repository run on standard Python. To execute a script locally:
+
+1. Clone this repository.
+2. Navigate to the project directory.
+3. Run the file using the terminal:
+
+```bash
+python filename.py
+```
